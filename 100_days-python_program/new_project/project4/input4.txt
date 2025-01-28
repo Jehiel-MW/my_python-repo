@@ -1,0 +1,13 @@
+biscuit: 70
+water melon: 450
+noodles: 250
+bread: 350
+sugar: 50
+soft drinks: 400
+rice: 300
+beans: 200
+garri: 100
+plantain: 1000
+yam: 2500
+kuli: 100
+groundnut: 50
